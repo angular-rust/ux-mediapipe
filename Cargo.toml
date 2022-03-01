@@ -1,6 +1,9 @@
 [package]
 name = "ux-mediapipe"
 version = "0.1.0"
+documentation = "https://docs.rs/ux-mediapipe"
+description = "Rusty bindings for Google mediapipe"
+license = "MPL-2.0"
 edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
